@@ -1,0 +1,7 @@
+POST : http://localhost:8080/api/product
+
+{
+	"productName":"iPhone15"
+	"productDescription":"iPhone 15 is smart phone for a apple"
+	"productPrice": 1000
+}
